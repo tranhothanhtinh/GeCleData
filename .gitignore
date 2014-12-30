@@ -6,6 +6,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 .DS_Store
 .Rhistory
 =======
@@ -53,3 +54,7 @@ household_power_consumption.txt
 .Rhistory
 data/
 >>>>>>> b2a9b42f8c9eb7dfe51ecb67830b46ca2b8da5dd
+=======
+.DS_Store
+.Rhistory
+>>>>>>> 476bc2957ae0d83216340810eb36850a29ba931c
