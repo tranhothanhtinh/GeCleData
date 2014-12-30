@@ -1,0 +1,55 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+.DS_Store
+.Rhistory
+=======
+# History files
+.Rhistory
+
+# Example code in package build process
+*-Ex.R
+
+# R data files from past sessions
+.Rdata
+.Rproj.user
+>>>>>>> 2faeafa46abf323e25888b2d3281847dc0fe2bb8
+=======
+.DS_Store
+.Rhistory
+ExData_Plotting1/
+ExData_Plotting2/
+week1/geyserplot.png
+week1/myplot.pdf
+>>>>>>> c3b2d1eda5d3e90a312fc525d07d46195aa23712
+=======
+.DS_Store
+.Rhistory
+household_power_consumption.txt
+>>>>>>> e29314c19d33f02135b0875e5237434f8e3e2022
+=======
+.DS_Store
+.Rhistory
+>>>>>>> c9e4fd2b46365a310d81784e834b75ba373e3e4a
+=======
+.DS_Store
+.Rhistory
+>>>>>>> c9e4fd2b46365a310d81784e834b75ba373e3e4a
+=======
+.DS_Store
+.Rhistory
+>>>>>>> 476bc2957ae0d83216340810eb36850a29ba931c
+=======
+.DS_Store
+.Rhistory
+>>>>>>> 6a1b0529f56defc984bd582b3726b8b65be78dcd
+=======
+.DS_Store
+.Rhistory
+data/
+>>>>>>> b2a9b42f8c9eb7dfe51ecb67830b46ca2b8da5dd
