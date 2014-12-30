@@ -9,6 +9,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 .DS_Store
 .Rhistory
 =======
@@ -69,3 +70,7 @@ data/
 .Rhistory
 data/
 >>>>>>> b2a9b42f8c9eb7dfe51ecb67830b46ca2b8da5dd
+=======
+.DS_Store
+.Rhistory
+>>>>>>> 93d7824af01f32363bfdd88cd5d5a7f5b772167c
