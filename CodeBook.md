@@ -39,6 +39,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 13.We only extract the measurements on the mean and standard deviationand and store them in subset *extracted_set*
 
 14.Read *activity_labels.txt* from the working directory and store it in set *map_activity_label*
+
 15.Use names("Label","Activity") in above set *map_activity_labels*
 
 16.Join sets labels and *map_activity_label* to name the activities in set *labels* and store it in set *labels_activities* 10299x2 dimension
