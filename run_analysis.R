@@ -99,7 +99,7 @@ mean_by_activity_subject<-do.call(rbind,mean_by_activity_subject)
 mean_by_activity_subject<-data.frame(mean_by_activity_subject)
 dim(mean_by_activity_subject)
 
-# Create a empty data set tidydata with 03 columns("Subject","Label","Activity")
+# Create a data set tidydata with 03 columns("Subject","Label","Activity")
 
 tidydata<-data.frame(Subject=rep(1:length(subjectID), each = activities),
                  Label=rep(1:activities,length(subjectID)),
