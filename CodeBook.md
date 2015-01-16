@@ -19,7 +19,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 4. Merge sets *train_labels* and *test_labes* in set *labels* 10299x1 dimension
 
 5. Read *subject_train.txt and subject_test.txt* from the "./train" and "./test" folders and store them in sets *subject_train*, *subject_test* respectively.  
-6. Merge sets *subject_train.txt and subject_test.txt* in set *subjects* 10299x1 dimension
+6. Merge sets *subject_train and subject_test* in set *subjects* 10299x1 dimension
 
 7. Read the features.txt file from the working directory and store the data in a variable called *features*
 8. Use names of features in above set *train_test*
