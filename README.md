@@ -17,7 +17,7 @@ This file describes how run_analysis.R script works.
   The dimension of dataframe is 180*69,because, 
   
   - There are 66 variables which measure the mean and standard deviation are required to get the average for each activity and each subject. 
-    Beside, Subject, Label and Activity involving each average value are added to the dataset. Thus, totla columns of the dataframe is 69
+    Beside, Subject, Label and Activity involving each average value are added to the dataset. Thus, total columns of the dataframe is 69
   
   - There are 6 activities carried by each subject and 30 subjects in total, we have 6X30 = 180 rows
 
